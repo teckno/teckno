@@ -1,26 +1,27 @@
-### Hi there 👋
 
-<!--
-**teckno/teckno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-<li>Working on my bemblin app</li>
+<ul>
+<li>bemblin app (African language app)</li>
 <li>Working on a library Mangement System</li>
+ </ul>
 - 🌱 I’m currently learning ...
-<li>frontend frameworks</li>
+<ul>
+ <li>frontend frameworks...</li>
  <li>Javascript</li>
-<li>Backend</li>
-
+<li>Backend </li>
+</ul>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
+<ul>
 <li>Someone who is good with African Languages</li>
-
+</ul>
 - 💬 Ask me about ...
+<p>Software Developement and technology advancment</p>
 - 📫 How to reach me: ...
+<ul>
 <li>Check out portfolio</li>
+ </ul>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
